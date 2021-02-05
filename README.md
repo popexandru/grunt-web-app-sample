@@ -21,3 +21,5 @@ npm install
 ```sh
 grunt
 ```
+
+Enjoy and setup for your needs :)
