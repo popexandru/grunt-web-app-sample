@@ -1,0 +1,12 @@
+.clear(){
+    content: '';
+    display: table;
+    clear: both;
+    width: 100%;
+}
+
+.clear-after(){
+    &:after{
+        .clear();
+    }
+}
